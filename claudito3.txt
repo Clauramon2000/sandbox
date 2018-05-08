@@ -1,0 +1,17 @@
+MACHETE
+if condición_1:
+    bloque 1
+elif condición_2:
+    bloque 2
+else:
+    bloque 3
+
+
+Piense un número de 1 a 4.
+Conteste S (sí) o N (no) a mis preguntas.
+¿El número pensado es mayor que 2? S
+¿El número pensado es mayor que 3? N
+El número pensado es 3
+¡Hasta la próxima!
+
+Puede ver la ejecución
