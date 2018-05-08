@@ -1,0 +1,5 @@
+Condiciones no booleanas
+
+Dado que cualquier variable puede interpretarse como una variable booleana, si la condición es una comparación con cero, podemos omitir la comparación.
+
+Por ejemplo, el programa siguiente:
