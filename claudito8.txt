@@ -1,0 +1,2 @@
+En este programa, si el número es par, numero % 2 da como resultado 0. El valor booleano de cero es False (es decir, bool(0) es False), pero al negarse con not, la condición se estaría cumpliendo (ya que not False es True.
+En este programa, si el número es par, numero % 2 da como resultado 0. El valor booleano de cero es False (es decir, bool(0) es False), pero al negarse con not, la condición se estaría cumpliendo (ya que not False es True.
