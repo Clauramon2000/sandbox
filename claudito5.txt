@@ -1,0 +1,11 @@
+Cuando unos casos incluyen a otros
+Consideremos un programa que pide un valor y nos dice:
+    si es múltiplo de dos,
+   
+    si no es múltiplo de dos
+Nota: El valor 0 se considerará múltiplo de 4 y de 2.
+Los casos no son mutuamente excluyentes, puesto que 
+
+El siguiente programa no sería correcto: 
+    si no es múltiplo de dos
+Nota: El valor 0 se considerará múltiplo de 4 y de 2.
