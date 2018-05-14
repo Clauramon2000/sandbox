@@ -1,4 +1,3 @@
-# sandbox
-sitio de pruebas
-123 probando..
+# FizzBuzz
+for x in range (1,100):
 
