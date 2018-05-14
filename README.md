@@ -6,3 +6,5 @@ for x in range (1,100):
         	print "Fizz" 
 	elif   x%3==0:
         	print   "Buzz"
+	else:
+        	print x
